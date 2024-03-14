@@ -23,6 +23,7 @@
     },
     "emmet.showSuggestionsAsSnippets": true,
     "emmet.triggerExpansionOnTab": true,
+    "files.associations": {"*html":"html"},
     "explorer.confirmDelete": false,
     "files.exclude": {
         "__pycache__": true,
@@ -75,9 +76,21 @@
     "window.newWindowDimensions": "maximized",
     "workbench.editor.enablePreview": true,
     "workbench.iconTheme": "vscode-great-icons",
-    "workbench.settings.editor": "json",
-    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.editor": "ui",
+    "workbench.settings.openDefaultSettings": false,
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "emmet.preferences": {
+
+
+    },
+    "emmet.syntaxProfiles": {
+
+    },
+
 }
